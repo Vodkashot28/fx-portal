@@ -67,8 +67,8 @@ Yes. You can check docs here: https://wiki.polygon.technology/docs/pos/design/br
 
 | Contract                                                                                                                         | Deployed address                             |
 | :------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
-| [FxRoot (Ethereum Mainnet)](https://etherscan.io/address/0xfe5e5d361b2ad62c541bab87c45a0b9b018389a2#code)                        | `0xfe5e5D361b2ad62c541bAb87C45a0B9B018389a2` |
-| [FxChild (Matic Mainnnet)](https://explorer-mainnet.maticvigil.com/address/0x8397259c983751DAf40400790063935a11afa28a/contracts) | `0x8397259c983751DAf40400790063935a11afa28a` |
+| [FxRoot (Ethereum Mainnet)](https://etherscan.io/address/ 0xF2334b4415e9e375241623d65eDE3ccBbA0bEDdA)                      | `0xfe5e5D361b2ad62c541bAb87C45a0B9B018389a2` |
+| [FxChild (Matic Mainnnet)](https://explorer-mainnet.maticvigil.com/address/0xF2334b4415e9e375241623d65eDE3ccBbA0bEDdA/contracts) | `0x8397259c983751DAf40400790063935a11afa28a` |
 
 ### Development
 
